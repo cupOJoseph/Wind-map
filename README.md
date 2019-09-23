@@ -10,4 +10,8 @@ Live at: https://windmap.glitch.me/
 
 Built with MapBox Studio.
 
+Key
+![map key](https://i.imgur.com/XVziy5G.png)
+
 ![map image](https://i.imgur.com/DrzTMIt.png)
+
